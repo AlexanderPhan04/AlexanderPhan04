@@ -1,7 +1,7 @@
-<!-- Banner / Heading -->
 <h1 align="center">Hi, I'm Quân 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer;AI+%7C+Security+%7C+Web+%26+Mobile+App" alt="Typing SVG" />
+  <b>Welcome to my GitHub Profile!</b><br>
+  <i>Fullstack Developer | AI | Security | Web & Mobile App</i>
 </p>
 
 ---
