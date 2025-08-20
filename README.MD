@@ -1,7 +1,14 @@
 <!-- Banner / Heading -->
 <h1 align="center">Hi, I'm Quân 👋</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer;AI+%7C+Security+%7C+Web+%26+Mobile+App)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer;AI+%7C+Security+%7C+Web+%26+Mobile+App" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
 ---
 
@@ -44,7 +51,7 @@
 
 ## 📫 Contact
 
-- ✉️ Email: **phan.nhat.quan.dev@gmail.com**
+- ✉️ Email: **quannnd2004@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexanderphan04/)
 - 🌐 [GitHub Pages](https://alexanderphan04.github.io/)
 - 🐙 [GitHub](https://github.com/AlexanderPhan04)
