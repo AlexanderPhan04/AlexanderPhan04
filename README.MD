@@ -50,8 +50,6 @@
 ---
 
 ## 📫 Contact
-
-## 📫 Contact
 - ✉️ Email: **quannnd2004@gmail.com**
 - 🌐 Website: [GitHub Pages](https://alexanderphan04.github.io/)
 - 🐙 GitHub: [AlexanderPhan04](https://github.com/AlexanderPhan04)
