@@ -51,10 +51,12 @@
 
 ## 📫 Contact
 
+## 📫 Contact
 - ✉️ Email: **quannnd2004@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexanderphan04/)
-- 🌐 [GitHub Pages](https://alexanderphan04.github.io/)
-- 🐙 [GitHub](https://github.com/AlexanderPhan04)
+- 🌐 Website: [GitHub Pages](https://alexanderphan04.github.io/)
+- 🐙 GitHub: [AlexanderPhan04](https://github.com/AlexanderPhan04)
+- 📘 Facebook: [fb.com/phanquanalex](https://facebook.com/phanquanalex)
+- 📱 Phone: **+84 936205749**
 
 ---
 
