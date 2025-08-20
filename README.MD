@@ -55,7 +55,7 @@
 - ✉️ Email: **quannnd2004@gmail.com**
 - 🌐 Website: [GitHub Pages](https://alexanderphan04.github.io/)
 - 🐙 GitHub: [AlexanderPhan04](https://github.com/AlexanderPhan04)
-- 📘 Facebook: [fb.com/phanquanalex](https://facebook.com/phanquanalex)
+- 📘 Facebook: [fb.com/phanquanalex](https://www.facebook.com/Dark.Heart03)
 - 📱 Phone: **+84 936205749**
 
 ---
