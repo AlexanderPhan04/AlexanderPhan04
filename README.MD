@@ -50,8 +50,8 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: **quannnd2004@gmail.com**
-- 🌐 Website: [GitHub Pages](https://alexanderphan04.github.io/)
+- ✉️ Email: **info@alexanderphan.dev**
+- 🌐 Website: [GitHub Pages](https://alexanderphan.dev/)
 - 🐙 GitHub: [AlexanderPhan04](https://github.com/AlexanderPhan04)
 - 📘 Facebook: [fb.com/Dark.Heart03](https://www.facebook.com/Dark.Heart03)
 - 📱 Phone: **+84 936205749**
