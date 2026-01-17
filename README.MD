@@ -6,15 +6,15 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;AI+%7C+Security+%7C+Web+%26+Mobile+App;Always+learning+new+things+%F0%9F%9A%80;Let's+build+something+amazing!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;AI+%7C+Security+%7C+Web+%26+Mobile+App;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Badges -->
+<!-- Profile Badges -->
 <p align="center">
-  <a href="https://github.com/AlexanderPhan04"><img src="https://img.shields.io/github/followers/AlexanderPhan04?label=Followers&style=social" alt="GitHub Followers"/></a>
-  <a href="https://github.com/AlexanderPhan04"><img src="https://img.shields.io/github/stars/AlexanderPhan04?label=Stars&style=social" alt="GitHub Stars"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AlexanderPhan04&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Vietnam%20🇻🇳-green?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=AlexanderPhan04&label=Profile+Views&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
@@ -26,25 +26,20 @@ const alexander = {
     fullName: "Phan Nhật Quân",
     location: "Vietnam 🇻🇳",
     role: "Fullstack Developer",
+    email: "info@alexanderphan.dev",
     interests: ["AI", "Security", "Web Development", "Mobile Apps"],
-    currentlyLearning: ["NestJS", "Next.js", "Cloud Services"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    currentlyLearning: ["NestJS", "Next.js", "Cloud Services"]
 };
 ```
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 Currently working on **personal projects**
 - 🌱 Learning **AI & Machine Learning**
 - 💬 Ask me about **Web Development, Laravel, Node.js**
 - ⚡ Fun fact: **I love solving complex problems!**
-- 📫 Reach me at **info@alexanderphan.dev**
-
-<br clear="both"/>
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -77,51 +72,24 @@ const alexander = {
 
 ---
 
-## 📊 GitHub Stats
+## � GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/AlexanderPhan04">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPhan04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/AlexanderPhan04">
-    <img src="https://streak-stats.demolab.com?user=AlexanderPhan04&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/AlexanderPhan04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPhan04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-  </a>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexanderPhan04&theme=react-dark&hide_border=true&area=true)](https://github.com/AlexanderPhan04)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/AlexanderPhan04">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlexanderPhan04&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-  </a>
-</div>
-
----
-
-## � Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderPhan04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🌐 Connect with Me
+## � Connect with Me
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alexanderphan.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderPhan04)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Dark.Heart03)
-[![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexanderphan.dev)
+[![Email](https://img.shields.io/badge/Email-info@alexanderphan.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alexanderphan.dev)
+[![Website](https://img.shields.io/badge/Website-alexanderphan.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexanderphan.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-AlexanderPhan04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderPhan04)
+[![Facebook](https://img.shields.io/badge/Facebook-Dark.Heart03-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Dark.Heart03)
 
 </div>
 
@@ -133,5 +101,5 @@ const alexander = {
 </div>
 
 <div align="center">
-  <b>⭐ If you like my projects, give them a star! ⭐</b>
+  <b>⭐ Thanks for visiting! ⭐</b>
 </div>
