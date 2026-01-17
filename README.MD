@@ -38,7 +38,7 @@ const alexander = {
 - 🌱 Learning **AI & Machine Learning**
 - 💬 Ask me about **Web Development, Laravel, Node.js**
 - ⚡ Fun fact: **I love solving complex problems!**
-- 📫 Reach me at **quannnd2004@gmail.com**
+- 📫 Reach me at **info@alexanderphan.dev**
 
 <br clear="both"/>
 
@@ -80,12 +80,18 @@ const alexander = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPhan04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPhan04&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
+  <a href="https://github.com/AlexanderPhan04">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPhan04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/AlexanderPhan04">
+    <img src="https://streak-stats.demolab.com?user=AlexanderPhan04&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPhan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" height="180"/>
+  <a href="https://github.com/AlexanderPhan04">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPhan04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  </a>
 </div>
 
 ---
@@ -93,7 +99,9 @@ const alexander = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderPhan04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/AlexanderPhan04">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlexanderPhan04&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -110,7 +118,7 @@ const alexander = {
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quannnd2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alexanderphan.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderPhan04)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Dark.Heart03)
 [![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexanderphan.dev)
