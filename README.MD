@@ -21,6 +21,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```javascript
 const alexander = {
     fullName: "Phan Nhật Quân",
@@ -36,6 +38,8 @@ const alexander = {
 - 🌱 Learning **AI & Machine Learning**
 - 💬 Ask me about **Web Development, Laravel, Node.js**
 - ⚡ Fun fact: **I love solving complex problems!**
+
+<br clear="both"/>
 
 ---
 
